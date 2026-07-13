@@ -172,3 +172,41 @@ Nemoah is a **campaign-altering artifact**, not standard treasure. Use her to:
 - tie PCs into the Endless Archive
 
 She is hunger given shape — and patience given purpose.
+
+----
+
+# The Psychopomp
+
+*Entity: Trapped in a book*
+
+## Description
+
+In a chamber buried deep in the Archive, dusty and forgotten, an ornate book with a faded and cracked red leather cover lays on a stone lecturn. The imprint of a stylized canine skull is faintly embossed upon it, detectable only by the shadows cast by a single shaft of light from an unknown source above it that also case the area around the lecturn in shadow. The air is impossibly still as if the sacred chamber were holding its breath but despite the chill of the ornate marble around, the feeling is warm and comfortable. The alcove around the lecturn is lined with other books, ancient and written in an ancient unknown language. This is a chamber of honor and importance. Whoever created this chamber wanted to remember and honor the book and its contents but feels like whoever the creater was, had failed in their own rememberance. 
+**Detect Magic** reveals a strong necromantic aura and a faint divinity. **Identify** reveals the book's title: "The Book of ---", the name forgotten and unrevealable but is a powerful prayerbook containing the funerary rites of every religion that ever existed. 
+
+The book is a sealed artifact of a devout follower of an ancient god whose name was long forgotten.
+
+---
+
+# Artifact Properties
+
+The book is written in an unknown language, ancient and not of Toril. It is unreadable even through the use of magic but by simply holding the book, the bearer understand that it belongs in the hands of a priest for funerary rites.
+
+## Magical Item Bonus
+Using this book will allow the character to turn undead as if a cleric 5 levels higher than their current ability allows even if they don't normally have the ability to turn undead.
+Grants advantage to all *Turn Undead* checks to lay unintelligent undead to rest. The undead so affected crumble to dust and are destroyed, left with a sense of peace. Intelligent undead kneel in reverence and cannot harm the holder of the book as long as they hold it. The holder of the book can issue commands as long as its about ceasing hostilities, leaving, or simply not being in the way. Any hostility towards affected undead wrests them from any sway the book held over them. Though they don't understand why, their reverence is directed explicitly towards the book and not the holder.
+
+## Aura of Unwavering Solemnity
+Simply holding the book will allow the holder to be functionally non-hostile by unintelligent undead as long as no hostile action is taken against them. Intelligent undead will acknoweldge the book as something to be honored and will consider the holder as friendly as long it does not go against their best interest. This aura extends to 60 ft but any undead who can see the book or sense its aura is affected regardless of distance. This aura also extends to anyone of a religious nature though they're not affected by it, they simply know that it is an object of importance and is to be respected, especially in the hands of a capable priest who performs last rites. The layperson might not understand why but they can sense that this book should be respected and insist that it be in the hands of a funerary priest.
+
+## Last Rites
+Opening the book with the intention of performing last rites will always turn to the appropriate page for that person's religion and be completely legible to the person performing the ritual. 
+Any funerary rites held using the book will automatically ensure the deceased will never rise as undead unless they had given their express permission to the caster making them undead. Any observer with knowledge of religions would note that each rite was always accurately done for the preferred deity of the person being ministered to regardless of affiliation or alignment. Those that were given last rites in this manner always crossed over without issue, though this might confuse that deity's psychopomps, they would readily accept it as if it was done by one of their own.
+
+---
+
+# The Psychopomp Within
+While the book has its own properties, trapped within its pages is an ancient entity, once the divine agent of the god the book belonged to. When the book is first opened, the spectre of an ancient humanoid canine appears wearing a black funeral shroud as a cloak and holding a charred staff topped with a canine skull acting as a lantern glowing faintly with a reddish light from within. On the skull's left temple is a glowing red rune of a circle around three dots arrayed as a triangle. Faintly visible under the cloak if a person were to look hard enough, the remnants of a tattered red cassock is visible. The entity's face appears decayed with empty eyesockets but most of its flesh appears intact and ductile if somewhat dessicated. It rarely speaks but if it does it's in a language long lost to time. It appears in front of the person opening the book and appears to consider the holder a moment before fading away. The person who opened the book cannot help but feel a sense of profound judgment has occured.
+
+## The Risidual Effect
+After the book is first opened, rumors begin circulating of a strange dog-man visiting crypts and cemetaries. Last rites perfect to the relgion of the deceased being performed in an unknown language. Any attempts to divine the nature of the spectre returns nothing except for the fact that it's technically a very powerful spectre. Clerics and Paladins who attempt to face it and turn it always succeed in banishing or destroying it but it always seems to come back elsewhere. When a necromancer attempted to control it, the spectre attacked and drained the life of the necromancer completely. Onlookers related a sense of great disappointment from the spectre afterwards. Attempts by high-priests to commune with their gods only returns confusion by their gods at who or what this unknown psychopomp actually is, which deity it belongs to, or why accepting the last rites performed by the spectre just feels "correct".
